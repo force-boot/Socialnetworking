@@ -10,8 +10,8 @@ return [
         'ali' => [
             //是否开启功能
             'isopen' => false,
-            'accessKeyId' => 'LTAI4FtPub8FABt7smKkCarG',
-            'accessSecret' => 'WYT6N12zEy2tj3jkqNJlo7k7WYNAN0',
+            'accessKeyId' => '',
+            'accessSecret' => '',
             //签名名称
             'signName' => 'forceboot',
             //短信模版
