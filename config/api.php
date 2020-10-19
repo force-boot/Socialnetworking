@@ -27,17 +27,17 @@ return [
         //支持ali 阿里OSS 留空则本地
         'type' => '',
         'ali' => [
-            'accessKeyId' => 'LTAI4FtPub8FABt7smKkCarG',
-            'accessSecret' => 'WYT6N12zEy2tj3jkqNJlo7k7WYNAN0',
+            'accessKeyId' => '',
+            'accessSecret' => '',
             'endPoint' => 'oss-cn-shenzhen.aliyuncs.com', //EndPoint（地域节点）
-            'bucket' => 'appsns' //存储桶名称
+            'bucket' => '' //存储桶名称
         ]
     ],
     //第三方登录配置
     'thirdLogin' => [
         'qq' => [
-            'app_id' => '101820370',
-            'app_secret' => '01521257a36b4bcd39c4560b5a5c4325',
+            'app_id' => '',
+            'app_secret' => '',
             'scope' => 'get_user_info',
             'callback' => ''
         ],
